@@ -1,5 +1,5 @@
-div.relative {
-    position: relative;
+div.fixed {
+    position:fixed ;
     width: 400px;
     height: 200px;
     border: 4px solid #ad2177;

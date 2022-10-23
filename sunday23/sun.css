@@ -1,0 +1,24 @@
+
+  img{
+        
+    position: fixed; 
+    top: 15px;
+    right: 15px;
+}
+body{
+    background-color: rgb(23, 79, 127);
+}
+
+li { border:2px solid black;
+width: 50px;
+display:  inline-block;
+background-color:rgb(255, 0, 247);
+font-size: 40px;
+text-align: center;
+width: 80px;
+}
+
+li:nth-child(even)
+{
+display:none;
+}
