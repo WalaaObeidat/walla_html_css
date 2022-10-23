@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../css_html/First_project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "walla_html_css"
+	}
+}

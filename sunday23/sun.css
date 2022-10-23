@@ -9,16 +9,17 @@ body{
     background-color: rgb(23, 79, 127);
 }
 
-li { border:2px solid black;
-width: 50px;
+.non { border:2px solid black;
+width: 100px;
+height: 100px;
 display:  inline-block;
 background-color:rgb(255, 0, 247);
-font-size: 40px;
+font-size: 80px;
 text-align: center;
-width: 80px;
+
 }
 
-li:nth-child(even)
-{
+
+.dou{
 display:none;
 }
