@@ -1,13 +1,21 @@
 .tas{
 
-background-image:url("R.jpeg");}
+background-image:url("images.jpeg");}
 .a{
  text-align: center;
   font-style:italic;
-  color:white;
+  color:rgb(220, 16, 189);
 
   
 }
 .fa-user{
   color: aliceblue;
+     
+}
+.tas{
+  text-align: center;
+}
+h3{
+
+color: rgb(23, 30, 210);
 }

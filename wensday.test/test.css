@@ -1,0 +1,26 @@
+body{
+    width:300 ;
+    background-color: darkcyan;
+    border:50 solid powderblue ;
+}
+.hedar .div{
+   border-style: solid  
+   50px solid rgb(226, 230, 176) ;
+}
+div {
+    border: ridge;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+  
+  }
+
+  .contant .div{
+
+    border: ridge;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
