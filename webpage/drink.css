@@ -1,0 +1,78 @@
+
+.container{
+   
+    width: 50%;
+    margin: 0 auto;
+}
+.icon{
+    /* font: size 1.4em; */
+    margin-top: 40px;
+    margin-left: 20px
+
+    
+}
+.fedaaContainer{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* margin-bottom: 10px; */
+}
+.fa-martini-glass-citrus{
+font-size: 3em;
+/* margin-bottom: -6px; */
+
+}
+
+
+.abc{
+    margin-left: 4rem;
+  margin-right: 5rem;
+  margin-top: -2rem;
+}
+.menu{
+    border: 1px solid black;
+    display: grid;
+    background-image: url(back.jpeg)
+    
+}
+
+.o{
+width: 85px;
+    border-radius: 50%;
+}
+.mmm{
+    text-align: center;
+    font-size:13px ;
+  
+}
+ input[type="button"]{
+    background-color:rgb(51, 232, 232);
+    width : 150px;
+    height: 30px;
+    margin-left:60%;
+    /* position:relative ; */
+    
+}
+     
+
+ .menu{ 
+    display: grid;
+    grid-template-columns: auto 1fr;
+ 
+} 
+.walaa{
+ font-size: 17px;
+ margin-top: 7px;
+}
+
+  
+  div.input[type="button"] {
+    position: absolute;
+    top: 100px; 
+    right: 30px;
+     width: 200px;
+    height: 100px;
+  }
+
+
+   
